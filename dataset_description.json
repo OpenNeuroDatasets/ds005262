@@ -1,0 +1,15 @@
+{
+  "Name": "ArEEG: Arabic Inner Speech EEG dataset",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "raw",
+  "License": "PDDL",
+  "Authors": [
+    "Donia Metwalli",
+    "Eslam Ahmed",
+    "Antony Emil",
+    "Yousef A. Radwan",
+    "Mariam Barakat",
+    "Anas Ahmed"
+  ]
+
+}
